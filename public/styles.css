@@ -1,0 +1,123 @@
+.start-1{
+    background-color: #F7EDDB;
+    /* width: 1520px; */
+    width: 100%;
+    /* border: solid black; */
+    
+    height: 100%;
+}
+
+.start-2{
+    margin-top: 10%;
+    margin-left: 18%;
+    margin-right: 18%;
+    padding-left: 5%;
+    padding-right: 5%;
+    /* background-color:#CEE5D0; */
+    background-color:#F7EDDB;
+    /* width: 1520px; */
+    width: 60%;
+    border: solid black;
+    
+    height: 100%;
+}
+.Heading{
+    color: black;
+    
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    
+    padding-left: 8%;
+    padding-top: 4.5%;
+    padding-bottom: 4.5%;
+}
+
+.styledSelect{
+    /* width: 17%; */
+    padding-left: 0.75%;
+}
+
+
+.styledSelect1{
+    /* width: 17%; */
+    padding-left: 0.75%;
+}
+
+
+.styledSelect2{
+    /* width: 17%; */
+    padding-left: 0.75%;
+}
+
+.btn:hover{
+    color: #FAFDD6;
+}
+
+.roww{
+    padding-left: 20%;
+    padding-right: 15%;
+}
+
+h2{
+    padding-top: 0.9%;
+    padding-left: 10%;
+    padding-top: 0.9%; 
+    padding: auto;
+}
+
+.card{
+    background-color: #DFDFDE;
+}
+
+.btn1{
+    margin: 50px;
+    background-color: #CCD6A6;
+}
+.btn2{
+    margin: 50px;
+    
+    background-color: #CCD6A6;
+}
+.btn3{
+    margin: 50px;
+    background-color: lightgreen;
+}
+
+#footer{
+    padding: 7% 15%;
+    text-align: center;
+}
+
+/* ............................................................. */
+
+/* .start-1{
+    background-color:#6D8B74;
+    height: 900px;
+} */
+
+h1{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    /* padding-left: 500px; */
+    padding-top: 10px;
+
+}
+
+.Form-add{
+    padding-top:5%;
+    /* padding-left: 33%; */
+    text-align: center;
+}
+
+.mbb{
+    padding-left: 1.3%;
+    width: 17%;
+}
+
+/* .btn1{
+    padding-left: 27%;
+} */
+
+
+#footer{
+    padding: 7% 15%;
+    text-align: center;
+}
